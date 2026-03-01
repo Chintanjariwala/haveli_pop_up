@@ -1,30 +1,27 @@
 {
   "restaurantHours": {
-    "monday": [
-      { "open": "11:00 AM", "close": "2:30 PM" },
-      { "open": "5:30 PM", "close": "10:00 PM" }
-    ],
+    "monday": [],
     "tuesday": [
-      { "open": "11:00 AM", "close": "2:30 PM" },
-      { "open": "5:30 PM", "close": "10:00 PM" }
+      { "open": "11:30 AM", "close": "2:30 PM" },
+      { "open": "5:00 PM", "close": "10:00 PM" }
     ],
     "wednesday": [
-      { "open": "11:00 AM", "close": "2:30 PM" },
-      { "open": "5:30 PM", "close": "10:00 PM" }
+      { "open": "11:30 AM", "close": "2:30 PM" },
+      { "open": "5:00 PM", "close": "10:00 PM" }
     ],
     "thursday": [
-      { "open": "11:00 AM", "close": "2:30 PM" },
-      { "open": "5:30 PM", "close": "10:00 PM" }
+      { "open": "11:30 AM", "close": "2:30 PM" },
+      { "open": "5:00 PM", "close": "10:00 PM" }
     ],
     "friday": [
-      { "open": "11:00 AM", "close": "11:00 PM" }
+      { "open": "11:30 AM", "close": "2:30 PM" },
+      { "open": "5:00 PM", "close": "10:30 PM" }
     ],
     "saturday": [
-      { "open": "11:00 AM", "close": "2:30 PM" },
-      { "open": "10:00 PM", "close": "11:00 PM" }
+      { "open": "11:30 AM", "close": "10:30 PM" }
     ],
     "sunday": [
-      
+      { "open": "11:30 AM", "close": "9:30 PM" }
     ]
   },
   "active": false,
