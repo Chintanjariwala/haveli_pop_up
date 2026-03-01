@@ -1,4 +1,31 @@
 {
+  "restaurantHours": {
+    "monday": [
+      { "open": "11:00 AM", "close": "2:30 PM" },
+      { "open": "5:30 PM", "close": "10:00 PM" }
+    ],
+    "tuesday": [
+      { "open": "11:00 AM", "close": "2:30 PM" },
+      { "open": "5:30 PM", "close": "10:00 PM" }
+    ],
+    "wednesday": [
+      { "open": "11:00 AM", "close": "2:30 PM" },
+      { "open": "5:30 PM", "close": "10:00 PM" }
+    ],
+    "thursday": [
+      { "open": "11:00 AM", "close": "2:30 PM" },
+      { "open": "5:30 PM", "close": "10:00 PM" }
+    ],
+    "friday": [
+      { "open": "11:00 AM", "close": "11:00 PM" }
+    ],
+    "saturday": [
+      { "open": "11:00 AM", "close": "11:00 PM" }
+    ],
+    "sunday": [
+      { "open": "11:00 AM", "close": "9:00 PM" }
+    ]
+  },
   "active": false,
   "version": "2.1",
   "expiryDate": "2026-03-15",
