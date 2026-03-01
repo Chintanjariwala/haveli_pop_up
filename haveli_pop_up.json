@@ -20,7 +20,7 @@
       { "open": "11:00 AM", "close": "11:00 PM" }
     ],
     "saturday": [
-      { "open": "11:00 AM", "close": "11:00 PM" }
+      { "open": "11:00 AM", "close": "8:00 PM" }
     ],
     "sunday": [
       { "open": "11:00 AM", "close": "9:00 PM" }
