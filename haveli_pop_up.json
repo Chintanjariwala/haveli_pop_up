@@ -24,7 +24,7 @@
       { "open": "10:00 PM", "close": "11:00 PM" }
     ],
     "sunday": [
-      { "open": "11:00 AM", "close": "9:00 PM" }
+      
     ]
   },
   "active": false,
