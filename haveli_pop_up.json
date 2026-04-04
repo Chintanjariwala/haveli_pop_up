@@ -18,9 +18,11 @@
       { "open": "5:00 PM", "close": "10:30 PM" }
     ],
     "saturday": [
+      { "open": "9:00 AM", "close": "11:00 AM" },
       { "open": "11:30 AM", "close": "10:30 PM" }
     ],
     "sunday": [
+      { "open": "9:00 AM", "close": "11:00 AM" },
       { "open": "11:30 AM", "close": "9:30 PM" }
     ]
   },
