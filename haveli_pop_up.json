@@ -27,7 +27,8 @@
     ]
   },
   "active": false,
-  "menuDeals": false,
+  "menuDeals": true,
+  "menuDealsMessage":"Happy",
   "version": "2.3",
   "expiryDate": "2026-03-22",
   "title": "",
