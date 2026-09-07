@@ -1,10 +1,8 @@
 {
   "restaurantHours": {
-    "monday": [],
-    "tuesday": [
-      { "open": "11:30 AM", "close": "2:30 PM" },
-      { "open": "5:00 PM", "close": "9:30 PM" }
-    ],
+    "monday": [{ "open": "11:30 AM", "close": "2:30 PM" },
+      { "open": "5:00 PM", "close": "9:30 PM" }],
+    "tuesday": [],
     "wednesday": [
       { "open": "11:30 AM", "close": "2:30 PM" },
       { "open": "5:00 PM", "close": "9:30 PM" }
@@ -26,12 +24,12 @@
       { "open": "5:00 PM", "close": "9:30 PM" }
     ]
   },
-  "active": false,
+  "active": true,
   "menuDeals": true,
   "menuDealsMessage":"Happy",
   "version": "2.3",
-  "expiryDate": "2026-09-05",
+  "expiryDate": "2026-09-08",
   "title": "",
   "message": "",
-  "image": "https://chintanjariwala.github.io/haveli_pop_up/619D1834-FB73-4A0A-8ACD-A7FA0F1943BB.PNG"
+  "image": "https://chintanjariwala.github.io/haveli_pop_up/0b8b3718-8d64-4834-b179-678d2321dff4.jpeg"
 }
