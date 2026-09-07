@@ -1,7 +1,9 @@
 {
   "restaurantHours": {
-    "monday": [{ "open": "11:30 AM", "close": "2:30 PM" },
-      { "open": "5:00 PM", "close": "9:30 PM" }],
+    "monday": [
+      { "open": "11:30 AM", "close": "2:30 PM" },
+      { "open": "5:00 PM", "close": "9:30 PM" }
+    ],
     "tuesday": [],
     "wednesday": [
       { "open": "11:30 AM", "close": "2:30 PM" },
