@@ -27,8 +27,8 @@
     ]
   },
   "active": true,
-  "menuDeals": false,
-  "menuDealsMessage":"Happy",
+  "menuDeals": true,
+  "menuDealsMessage":"Happy Diwali",
   "version": "2.6",
   "expiryDate": "2026-11-10",
   "title": "",
